@@ -16,7 +16,7 @@
     "Framerate Cap": 60,
     "Framerate Target": 0,
     "Window Mode": 1,
-    "Graphic Presets": 2,
+    "Graphic Presets": 4,
     "Texture Quality": 4,
     "Texture Anisotropy": 1,
     "Ambient Occlusion Quality": 3,
@@ -105,5 +105,6 @@
     "Audio AdvancedMonsters Preset 0 Previous Value": 50,
     "Audio AdvancedPlayerSkills Preset 0 Previous Value": 50,
     "Help Menu": 1,
-    "Always Run": 1
+    "Always Run": 1,
+    "Vfx Quality": 2
 }
